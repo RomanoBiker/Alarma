@@ -48,6 +48,3 @@ if __name__ == "__main__":
     alarm_time = input("Ingresa la hora de la alarma (HH:MM): ")
     alarm_clock = Alarm(alarm_time)
     alarm_clock.set_alarm(alarm_time)
-    
-    
-
